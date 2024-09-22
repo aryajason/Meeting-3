@@ -1,0 +1,15 @@
+input: 2 4 6
+output: 
+Enter The a, b, and c: 2 4 6
+ There are no real roots
+
+input: 2 5 -3
+output:
+Enter The a, b, and c: 2 5 -3
+x1 = 0.5
+x2 = -3
+
+input: 1 6 9
+output:
+Enter The a, b, and c: 1 6 9
+x : -3
