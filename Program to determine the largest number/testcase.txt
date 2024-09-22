@@ -1,0 +1,6 @@
+input: 15, 7, 22
+output:
+input number 1: 15
+input number 2: 7
+input number 3: 22
+The large number: 22
